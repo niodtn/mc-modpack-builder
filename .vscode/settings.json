@@ -1,5 +1,8 @@
 {
   "files.exclude": {
-    ".jj/": true
+    ".direnv/": true,
+    ".jj/": true,
+    ".vscode/": true,
+    "flake.lock": true
   }
 }
